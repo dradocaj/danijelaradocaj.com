@@ -5,7 +5,7 @@ module.exports = {
   siteUrl: 'https://www.danijelaradocaj.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logos/logo-1024.png', // Used for SEO and manifest
-  siteDescription: 'Minimalistic bright portfolio with full-width grid and large images',
+  siteDescription: 'Future site of Danijela Radocaj.',
   author: 'LekoArts', // Author for schemaORGJSONLD
   // siteFBAppID: '123456789', // Facebook App ID - Optional
   userTwitter: '@danijelaradocaj', // Twitter Username
